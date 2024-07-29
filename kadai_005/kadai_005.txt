@@ -1,3 +1,5 @@
+onoguchiyuuki@YUKInoMacBook-Air ~ % mkdir git_cha
+llenge
 onoguchiyuuki@YUKInoMacBook-Air git_challenge % g
 it add .
 onoguchiyuuki@YUKInoMacBook-Air git_challenge % g
@@ -16,3 +18,16 @@ onoguchiyuuki@YUKInoMacBook-Air git_challenge % g
 it status
 On branch main
 nothing to commit, working tree clean
+onoguchiyuuki@YUKInoMacBook-Air git_challenge % g
+it log
+commit 4f6d43a71431848e778387b1fbd492191e858d1d (HEAD -> main)
+Author: yk-ongt <ongtyk0213@gmail.com>
+Date:   Mon Jul 29 20:26:57 2024 +0900
+
+    日本語訳を追記
+
+commit 8744bcdce51b77e0f1cbc7fd9b50c20298e516f2
+Author: yk-ongt <ongtyk0213@gmail.com>
+Date:   Mon Jul 29 20:25:55 2024 +0900
+
+    hello_world.txtを追加
